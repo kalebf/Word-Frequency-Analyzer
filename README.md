@@ -21,8 +21,7 @@ How to use:
 3. Ensure you have Python installed (preferably version 3.x).
 4. Run the `main.py` file
 5. A prompt to enter the file to analyze will appear
-6. Test by inputing 'test.txt' into the terminal
-7. Restat and test again by inputing 'test2.txt' into the terminal
-
-This will test the test files in the repository. 
+6. Test by inputing "test.txt" into the terminal
+7. Restat and test again by inputing "test2.txt", "declOfInd.txt", "gettysburg copy.txt", or "gettysburg.txt" into the terminal
+This will test the test files in the repository as the user chooses to. The user can also choose to add their own file to the same folder as this repository to analyze it. Note: the name of the file to analyze needs to be typed ending it ".txt"
 
